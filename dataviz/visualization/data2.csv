@@ -1,0 +1,359 @@
+A,B,C
+Tigres,América,2
+Tigres,Atlas,23
+Tigres,Chivas,15
+Tigres,Cruz Azul,2
+Tigres,FC Juárez,2
+Tigres,León,35
+Tigres,Monarcas,20
+Tigres,Necaxa,32
+Tigres,Pachuca,5
+Tigres,Puebla,6
+Tigres,Pumas,1
+Tigres,Querétaro,32
+Tigres,Rayadas,23
+Tigres,San Luis,10
+Tigres,Santos,31
+Tigres,Tiburonas,2
+Tigres,Tijuana,2
+Tigres,Toluca,1
+América,Atlas,1
+América,Chivas,2
+América,Cruz Azul,36
+América,FC Juárez,5
+América,León,0
+América,Lobos,7
+América,Monarcas,35
+América,Necaxa,4
+América,Pachuca,15
+América,Puebla,6
+América,Pumas,14
+América,Querétaro,9
+América,Rayadas,7
+América,San Luis,0
+América,Santos,4
+América,Tiburonas,28
+América,Tigres,1
+América,Tijuana,18
+América,Toluca,16
+Atlas,América,1
+Atlas,Chivas,10
+Atlas,Cruz Azul,3
+Atlas,FC Juárez,8
+Atlas,León,15
+Atlas,Monarcas,10
+Atlas,Necaxa,22
+Atlas,Pachuca,2
+Atlas,Puebla,2
+Atlas,Pumas,2
+Atlas,Querétaro,28
+Atlas,Rayadas,11
+Atlas,San Luis,6
+Atlas,Santos,17
+Atlas,Tiburonas,0
+Atlas,Tigres,9
+Atlas,Tijuana,3
+Atlas,Toluca,3
+Rayadas,América,4
+Rayadas,Atlas,24
+Rayadas,Chivas,12
+Rayadas,Cruz Azul,2
+Rayadas,FC Juárez,2
+Rayadas,León,27
+Rayadas,Monarcas,16
+Rayadas,Necaxa,35
+Rayadas,Pachuca,4
+Rayadas,Puebla,3
+Rayadas,Pumas,8
+Rayadas,Querétaro,40
+Rayadas,San Luis,5
+Rayadas,Santos,23
+Rayadas,Tiburonas,4
+Rayadas,Tigres,17
+Rayadas,Tijuana,6
+Rayadas,Toluca,6
+Pachuca,América,15
+Pachuca,Atlas,2
+Pachuca,Chivas,8
+Pachuca,Cruz Azul,29
+Pachuca,FC Juárez,8
+Pachuca,León,4
+Pachuca,Lobos,9
+Pachuca,Monarcas,28
+Pachuca,Necaxa,1
+Pachuca,Puebla,9
+Pachuca,Pumas,16
+Pachuca,Querétaro,8
+Pachuca,Rayadas,5
+Pachuca,San Luis,4
+Pachuca,Santos,4
+Pachuca,Tiburonas,17
+Pachuca,Tigres,4
+Pachuca,Tijuana,16
+Pachuca,Toluca,23
+Chivas,América,4
+Chivas,Atlas,16
+Chivas,Cruz Azul,5
+Chivas,FC Juárez,1
+Chivas,León,27
+Chivas,Monarcas,12
+Chivas,Necaxa,15
+Chivas,Pachuca,3
+Chivas,Puebla,2
+Chivas,Pumas,1
+Chivas,Querétaro,19
+Chivas,Rayadas,8
+Chivas,San Luis,4
+Chivas,Santos,22
+Chivas,Tiburonas,1
+Chivas,Tigres,11
+Chivas,Tijuana,4
+Chivas,Toluca,4
+Cruz Azul,América,6
+Cruz Azul,Atlas,2
+Cruz Azul,Chivas,5
+Cruz Azul,FC Juárez,4
+Cruz Azul,León,2
+Cruz Azul,Lobos,5
+Cruz Azul,Monarcas,8
+Cruz Azul,Necaxa,4
+Cruz Azul,Pachuca,7
+Cruz Azul,Puebla,1
+Cruz Azul,Pumas,7
+Cruz Azul,Querétaro,1
+Cruz Azul,Rayadas,0
+Cruz Azul,San Luis,1
+Cruz Azul,Santos,3
+Cruz Azul,Tiburonas,13
+Cruz Azul,Tigres,0
+Cruz Azul,Tijuana,11
+Cruz Azul,Toluca,7
+Pumas,América,6
+Pumas,Atlas,1
+Pumas,Chivas,1
+Pumas,Cruz Azul,24
+Pumas,FC Juárez,4
+Pumas,León,1
+Pumas,Lobos,4
+Pumas,Monarcas,6
+Pumas,Necaxa,0
+Pumas,Pachuca,5
+Pumas,Puebla,1
+Pumas,Querétaro,1
+Pumas,Rayadas,5
+Pumas,San Luis,4
+Pumas,Santos,6
+Pumas,Tiburonas,16
+Pumas,Tigres,4
+Pumas,Tijuana,18
+Pumas,Toluca,11
+Puebla,América,2
+Puebla,Atlas,0
+Puebla,Chivas,0
+Puebla,Cruz Azul,6
+Puebla,FC Juárez,3
+Puebla,León,3
+Puebla,Lobos,5
+Puebla,Monarcas,1
+Puebla,Necaxa,3
+Puebla,Pachuca,4
+Puebla,Pumas,6
+Puebla,Querétaro,3
+Puebla,Rayadas,1
+Puebla,San Luis,1
+Puebla,Santos,0
+Puebla,Tiburonas,8
+Puebla,Tigres,0
+Puebla,Tijuana,10
+Puebla,Toluca,7
+León,América,0
+León,Atlas,13
+León,Chivas,10
+León,Cruz Azul,0
+León,FC Juárez,1
+León,Monarcas,10
+León,Necaxa,11
+León,Pachuca,2
+León,Puebla,4
+León,Pumas,0
+León,Querétaro,17
+León,Rayadas,11
+León,San Luis,5
+León,Santos,19
+León,Tiburonas,0
+León,Tigres,9
+León,Tijuana,2
+León,Toluca,6
+Monarcas,América,5
+Monarcas,Atlas,4
+Monarcas,Chivas,5
+Monarcas,Cruz Azul,4
+Monarcas,FC Juárez,2
+Monarcas,León,7
+Monarcas,Necaxa,8
+Monarcas,Pachuca,8
+Monarcas,Puebla,3
+Monarcas,Pumas,1
+Monarcas,Querétaro,12
+Monarcas,Rayadas,4
+Monarcas,San Luis,5
+Monarcas,Santos,10
+Monarcas,Tiburonas,6
+Monarcas,Tigres,5
+Monarcas,Tijuana,4
+Monarcas,Toluca,8
+Tijuana,América,7
+Tijuana,Atlas,3
+Tijuana,Chivas,2
+Tijuana,Cruz Azul,10
+Tijuana,FC Juárez,5
+Tijuana,León,0
+Tijuana,Lobos,2
+Tijuana,Monarcas,9
+Tijuana,Necaxa,6
+Tijuana,Pachuca,8
+Tijuana,Puebla,1
+Tijuana,Pumas,6
+Tijuana,Querétaro,4
+Tijuana,Rayadas,1
+Tijuana,San Luis,3
+Tijuana,Santos,6
+Tijuana,Tiburonas,14
+Tijuana,Tigres,0
+Tijuana,Toluca,9
+Necaxa,América,1
+Necaxa,Atlas,6
+Necaxa,Chivas,4
+Necaxa,Cruz Azul,2
+Necaxa,FC Juárez,0
+Necaxa,León,6
+Necaxa,Monarcas,6
+Necaxa,Pachuca,0
+Necaxa,Puebla,3
+Necaxa,Pumas,0
+Necaxa,Querétaro,6
+Necaxa,Rayadas,5
+Necaxa,San Luis,1
+Necaxa,Santos,7
+Necaxa,Tiburonas,0
+Necaxa,Tigres,3
+Necaxa,Tijuana,0
+Necaxa,Toluca,1
+San Luis,América,0
+San Luis,Atlas,1
+San Luis,Chivas,1
+San Luis,Cruz Azul,2
+San Luis,FC Juárez,0
+San Luis,León,1
+San Luis,Monarcas,1
+San Luis,Necaxa,1
+San Luis,Pachuca,2
+San Luis,Puebla,1
+San Luis,Pumas,1
+San Luis,Querétaro,0
+San Luis,Rayadas,1
+San Luis,Santos,4
+San Luis,Tiburonas,2
+San Luis,Tigres,1
+San Luis,Tijuana,0
+San Luis,Toluca,1
+Toluca,América,10
+Toluca,Atlas,0
+Toluca,Chivas,4
+Toluca,Cruz Azul,17
+Toluca,FC Juárez,1
+Toluca,León,2
+Toluca,Lobos,9
+Toluca,Monarcas,14
+Toluca,Necaxa,2
+Toluca,Pachuca,14
+Toluca,Puebla,5
+Toluca,Pumas,10
+Toluca,Querétaro,0
+Toluca,Rayadas,1
+Toluca,San Luis,3
+Toluca,Santos,2
+Toluca,Tiburonas,21
+Toluca,Tigres,1
+Toluca,Tijuana,20
+FC Juárez,América,0
+FC Juárez,Atlas,1
+FC Juárez,Chivas,0
+FC Juárez,Cruz Azul,1
+FC Juárez,León,1
+FC Juárez,Monarcas,1
+FC Juárez,Necaxa,0
+FC Juárez,Pachuca,1
+FC Juárez,Puebla,1
+FC Juárez,Pumas,4
+FC Juárez,Querétaro,2
+FC Juárez,Rayadas,1
+FC Juárez,San Luis,0
+FC Juárez,Santos,0
+FC Juárez,Tiburonas,1
+FC Juárez,Tigres,1
+FC Juárez,Tijuana,0
+FC Juárez,Toluca,0
+Santos,América,2
+Santos,Atlas,12
+Santos,Chivas,12
+Santos,Cruz Azul,6
+Santos,FC Juárez,3
+Santos,León,11
+Santos,Monarcas,7
+Santos,Necaxa,12
+Santos,Pachuca,1
+Santos,Puebla,0
+Santos,Pumas,0
+Santos,Querétaro,11
+Santos,Rayadas,5
+Santos,San Luis,2
+Santos,Tiburonas,1
+Santos,Tigres,6
+Santos,Tijuana,2
+Santos,Toluca,0
+Querétaro,América,1
+Querétaro,Atlas,10
+Querétaro,Chivas,7
+Querétaro,Cruz Azul,1
+Querétaro,FC Juárez,0
+Querétaro,León,15
+Querétaro,Monarcas,3
+Querétaro,Necaxa,17
+Querétaro,Pachuca,0
+Querétaro,Puebla,2
+Querétaro,Pumas,2
+Querétaro,Rayadas,6
+Querétaro,San Luis,2
+Querétaro,Santos,16
+Querétaro,Tiburonas,2
+Querétaro,Tigres,8
+Querétaro,Tijuana,1
+Querétaro,Toluca,0
+Tiburonas,América,4
+Tiburonas,Atlas,2
+Tiburonas,Chivas,1
+Tiburonas,Cruz Azul,8
+Tiburonas,FC Juárez,3
+Tiburonas,León,1
+Tiburonas,Lobos,4
+Tiburonas,Monarcas,5
+Tiburonas,Necaxa,1
+Tiburonas,Pachuca,6
+Tiburonas,Puebla,5
+Tiburonas,Pumas,4
+Tiburonas,Querétaro,2
+Tiburonas,Rayadas,0
+Tiburonas,San Luis,1
+Tiburonas,Santos,0
+Tiburonas,Tigres,0
+Tiburonas,Tijuana,4
+Tiburonas,Toluca,8
+Lobos,América,3
+Lobos,Cruz Azul,10
+Lobos,Pachuca,6
+Lobos,Puebla,1
+Lobos,Pumas,2
+Lobos,Tiburonas,6
+Lobos,Tijuana,7
+Lobos,Toluca,3

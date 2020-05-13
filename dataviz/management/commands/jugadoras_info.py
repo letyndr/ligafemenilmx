@@ -66,5 +66,5 @@ class Command(BaseCommand):
                     jugadora.save()
 
         except expression as identifier:
-            raise CommandError('Something wemt wromg!')
+            raise CommandError('Something went wrong!')
 

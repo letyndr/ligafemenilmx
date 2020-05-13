@@ -3,7 +3,9 @@ from django.db import models
 
 class Club(models.Model):
     nombre = models.CharField(max_length=100)
+    nombre_alternativo = models.CharField(max_length=100, null=True, blank=True)
     url = models.CharField(max_length=500, null=True, blank=True)
+    logo = models.CharField(max_length=500, null=True, blank=True)
 
     def __str__(self):
         return self.nombre
@@ -33,3 +35,32 @@ class EstadisticaJugadora(models.Model):
     minutos_jugados = models.IntegerField(default=0)
     tarjetas_amarillas = models.IntegerField(default=0)
     tarjetas_rojas = models.IntegerField(default=0)
+
+class Torneo(models.Model):
+    nombre = models.CharField(max_length=250, null=True, blank=True)
+
+    def __str__(self):
+        return self.nombre
+
+class Jornada(models.Model):
+    torneo = models.ForeignKey(Torneo, on_delete=models.CASCADE)
+    numero = models.IntegerField()
+
+    def __str__(self):
+        return f'J-{self.numero}'
+
+class Juego(models.Model):
+    jornada = models.ForeignKey(Jornada, on_delete=models.CASCADE)
+    equipo_local = models.ForeignKey(Club, related_name='equipo_local', on_delete=models.CASCADE)
+    equipo_visitante = models.ForeignKey(Club, related_name='equipo_visitante', on_delete=models.CASCADE)
+    goles_local = models.IntegerField()
+    goles_visitante = models.IntegerField()
+    fecha = models.CharField(max_length=200, null=True, blank=True)
+
+    def __str__(self):
+        return f'{self.equipo_local} - {self.equipo_visitante}'
+
+class EstadisticaHistoricaEquipo(models.Model):
+    torneo = models.ForeignKey(Torneo, on_delete=models.CASCADE)
+    equipo = models.ForeignKey(Club, on_delete=models.CASCADE, blank=True, null=True)
+    url = models.CharField(max_length=500, null=True, blank=True)
